@@ -129,14 +129,11 @@
   }
 }
 
-.mainnav ul{
-  display: flex;
-  justify-content: center;
-    margin-top: 50px;
+.myImg{
+  border-radius: 10px;
 }
  
-.mainnav ul li{
-  margin: 0 24px;
-    list-style: none;
-    font-weight: bold;
-}  
+.imagewrap{
+  padding: 30px 0px;
+}
+
